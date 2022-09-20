@@ -4,6 +4,8 @@ This is an in-browser Tic-Tac-Toe game based on the [Tutorial: Intro to React](h
 
 See [src/application.js](src/application.js) for a high-level overview of the MVC components.
 
+The end-result can be played at [https://terrabits.github.io/tic-tac-toe/](https://terrabits.github.io/tic-tac-toe/).
+
 ## Available Scripts
 
 In the project directory, you can run:
