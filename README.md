@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an in-browser Tic-Tac-Toe game based on the [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html), but refactored to use the MVC pattern as an exercise.
+
+See [src/application.js](src/application.js) for a high-level overview of the MVC components.
 
 ## Available Scripts
 
